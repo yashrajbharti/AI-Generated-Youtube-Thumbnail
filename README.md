@@ -30,4 +30,4 @@ Adam Argyle motivated this initiative to explore how AI can be utilized to creat
 - **Accessibility**: Aligns with inclusive design principles by suggesting accessible fonts and color contrasts.
 
 ## Next Steps:
-Develop a prototype integrating with tools like Google Labs’ Image FX for enhancing visual effects. Use this to demonstrate the ease and impact of the feature.
+Develop a prototype integrating with tools like Google Labs’ Image FX (Google Labs Whisk might be a better choice) for enhancing visual effects. Use this to demonstrate the ease and impact of the feature.
