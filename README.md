@@ -31,3 +31,8 @@ Adam Argyle motivated this initiative to explore how AI can be utilized to creat
 
 ## Next Steps:
 Develop a prototype integrating with tools like Google Labs’ Image FX (Google Labs Whisk might be a better choice) for enhancing visual effects. Use this to demonstrate the ease and impact of the feature.
+
+<img src="https://github.com/user-attachments/assets/9a49ec19-424e-42cf-a9f7-d6786a66ae7f" width="300px" alt="Person generated using Whisk"/>
+<img src="https://github.com/user-attachments/assets/9ee90880-869d-4483-8492-312c4ab7ace4" width="300px" alt="YouTube Thumbnail using Whisk"/>
+
+
