@@ -1,7 +1,7 @@
 # Explainer for AI-Driven YouTube Thumbnail Generator
 
 ## Problem:
-Creating compelling YouTube thumbnails is a repetitive and time-consuming task for content creators. While they invest significant effort in designing thumbnails, there’s often a lack of consistency or ease in reusing content from previous efforts.
+Creating compelling YouTube thumbnails is a repetitive and time-consuming task for content creators. While they invest significant effort in designing thumbnails, there’s often a lack of consistency or ease in reusing content from previous efforts. People delay or sometimes even abandon the idea of uploading their videos unless thumbnails are perfect to go with the videos, and often they are good editors but not designers.
 
 ## Solution:
 Introduce an AI-powered thumbnail generator that seamlessly integrates into the YouTube upload process. This tool leverages multi-modality by combining video data, title, description, and previous thumbnail insights to automatically suggest or create thumbnails.
